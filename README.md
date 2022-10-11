@@ -33,7 +33,7 @@
   none
   
   ## Questions?!
-  [notetaker](https://user-images.githubusercontent.com/108505695/194978331-9722f935-ef66-4fee-b9db-27d1d5337def.png)
+  snippet of app - [notetaker](https://user-images.githubusercontent.com/108505695/194978331-9722f935-ef66-4fee-b9db-27d1d5337def.png)
 
   ### Reach me here: 
   [juicyjake12](https://github.com/juicyjake12)  
